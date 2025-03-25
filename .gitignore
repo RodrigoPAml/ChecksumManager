@@ -7,3 +7,5 @@
 /ChecksumChecker/obj
 /ChecksumGenerator/bin
 /ChecksumGenerator/obj
+/ChecksumFile/bin/Release/net8.0
+/ChecksumFile/obj
