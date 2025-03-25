@@ -16,7 +16,7 @@ Usage: ChecksumFile <FILE>
 
 ## Checksum Generator
 
-Generate a .txt with all files and checksums in the root folder with desired method
+Generate a .txt file listing all files in the root folder along with their checksums using the specified method.
 
 Outputs a file named checksum<CHECKSUM_METHOD>.txt
 
