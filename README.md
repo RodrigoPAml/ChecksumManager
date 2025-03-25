@@ -2,6 +2,18 @@
 
 Utility terminal app to generate and verify checksums (MD5, SHA1, SHA256 and SHA512) of files in folder
 
+You may put in the PATH for daily use.
+
+## Checksum File
+
+Generate an output with all the available checksum methods for the input file
+
+![image](https://github.com/user-attachments/assets/5c2c8392-63be-45d8-914d-2bd46f1c99c6)
+
+```
+Usage: ChecksumFile <FILE>
+```
+
 ## Checksum Generator
 
 Generate a .txt with all files and checksums in the root folder with desired method
