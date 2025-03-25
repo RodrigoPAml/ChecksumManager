@@ -1,6 +1,6 @@
 # Checksum Manager
 
-Terminal app to generate and verify checksums (MD5, SHA1, SHA256 and SHA512) of files in folder
+Utility terminal app to generate and verify checksums (MD5, SHA1, SHA256 and SHA512) of files in folder
 
 ## Checksum Generator
 
