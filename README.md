@@ -25,7 +25,7 @@ ChecksumChecker <ROOT_FOLDER> <CHECKSUM_FILE> <METHOD>
 
 ![image](https://github.com/user-attachments/assets/f642e404-31d7-40d7-963c-c9a9c5d6a63d)
 
-### Fail
+### Fail in check
 
 In case of fail of any nature it will point
 
