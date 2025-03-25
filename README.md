@@ -13,7 +13,7 @@ ChecksumGenerator <ROOT_FOLDER> <OUTPUT_FOLDER> <CHECKSUM_METHOD>
 ```
 ![image](https://github.com/user-attachments/assets/9daed7ba-9a23-4f2f-938a-bfca6e513e01)
 
-## Checksum Chcker
+## Checksum Checker
 
 Verify if all the files in the root folder match the checksum provided by the checksum file
 
